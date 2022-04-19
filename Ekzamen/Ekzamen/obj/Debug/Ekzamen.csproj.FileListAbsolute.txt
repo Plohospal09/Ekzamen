@@ -1,0 +1,41 @@
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe.config
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\bin\Debug\Ekzamen.pdb
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.AssemblyReference.cache
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Form1.resources
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Properties.Resources.resources
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Заказы.resources
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.GenerateResource.cache
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.CoreCompileInputs.cache
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.exe
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.pdb
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Заявки.resources
+C:\Users\3-5_3\Desktop\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Формирование_заявок.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe.config
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\bin\Debug\Ekzamen.pdb
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.AssemblyReference.cache
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Form1.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Properties.Resources.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Заказы.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Заявки.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Принятие_заявки.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Формирование_заявок.resources
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.GenerateResource.cache
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.CoreCompileInputs.cache
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.exe
+D:\3 sharaga\Экзамен ПМ.01\Ekzamen_1\Экзамен\Ekzamen\Ekzamen\obj\Debug\Ekzamen.pdb
+E:\1 PM.01\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe.config
+E:\1 PM.01\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe
+E:\1 PM.01\Ekzamen\Ekzamen\bin\Debug\Ekzamen.pdb
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.AssemblyReference.cache
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Form1.resources
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Properties.Resources.resources
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Заказы.resources
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Заявки.resources
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Принятие_заявки.resources
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Формирование_заявок.resources
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.GenerateResource.cache
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.csproj.CoreCompileInputs.cache
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.exe
+E:\1 PM.01\Ekzamen\Ekzamen\obj\Debug\Ekzamen.pdb
